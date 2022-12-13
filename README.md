@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luaagnc
 - 👀 I’m studying Aeronautical Engineering at Universidade da Beira Interior
-- 🌱 I’m currently learning C & Pythong, hoping I get good at it ;D !
+- 🌱 I’m currently learning C & Python, hoping I get good at it ;D !
 - 💞️ I’m looking to collaborate in probably everything, I want to learn!!
       --> Colab in HPA project from UBI & more other universities (CURRENTLY WORKING!)
         --> Seeing if it is possible to do an AI-based drone :) ! (NOT STARTED!)
